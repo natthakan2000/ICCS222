@@ -9,8 +9,8 @@
 #include<ctype.h>
 
 int status = 1;
-int exitf(void){
-    return 0;
+void exitf(void){
+    exit(0);
 }
 char **splitf(char *argv){
     int i =0;
@@ -56,7 +56,7 @@ int executef(char **argv){
         return 1;
     }
     if(strcmp(argv[0], "exit") == 0){
-        return exitf();
+        exitf();
     }
     //if(argv[0] == "echo" && argv[1] == "$?"){
     if(strcmp(argv[0],"echo") == 0 && strcmp(argv[1], "$?") == 0){
