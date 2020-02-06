@@ -26,7 +26,6 @@ char **splitf(char *argv){
     l[i] = NULL;
     return l;
 }
-
 char *readf(void){
   char *l = NULL;
   size_t bufsize = 0; 
@@ -69,18 +68,20 @@ int executef(char **argv){
 void ctrlcf(){
     ;
 }
-// void ctrlzFunction(){
-//     ;
-// }
+/*void ctrlzf(int signal){
+    if(signal==SIGTSTP){
+        
+    }
+}*/
 void icshLoop(){
     // print loop icsh> here
     while(status){
-    signal(SIGINT, ctrlcf);
-    // signal(SIGSTOP, ctrlzFunction);
-    printf("icsh> ");
-    char *r = readf();
-    char **split = splitf(r);
-    status = executef(split);
+        signal(SIGINT, ctrlcf);
+        //signal(SIGSTOP, ctrlzf);
+        printf("icsh> ");
+        char *r = readf();
+        char **split = splitf(r);
+        status = executef(split);
     }
 }
 int main(void){
