@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "__locale": "c",
+        "cctype": "c",
+        "locale": "c",
+        "__config": "c",
+        "__tuple": "c",
+        "istream": "c",
+        "unordered_map": "c"
+    }
+}

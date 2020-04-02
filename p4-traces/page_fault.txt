@@ -1,0 +1,516 @@
+rand sort.trace
+254307
+210598
+178921
+152225
+127284
+103293
+79461
+59855
+48365
+41754
+35482
+29398
+24136
+20211
+18622
+18028
+17428
+16998
+rand scan.trace
+51534
+38753
+30866
+26512
+23361
+21522
+20465
+19478
+18604
+17902
+17171
+16790
+16337
+15951
+15528
+15312
+14849
+14580
+rand focus.trace
+644671
+553082
+487736
+436604
+388335
+344734
+301780
+259122
+217693
+175630
+134525
+96263
+60700
+39053
+36081
+35648
+35106
+34734
+fifo sort.trace
+229338
+196252
+163483
+150502
+144764
+141807
+111488
+62482
+49690
+47959
+46563
+43245
+25606
+18455
+17083
+16607
+16305
+16033
+fifo scan.trace
+50428
+37859
+29132
+24087
+20311
+19308
+18169
+17633
+17104
+16568
+15958
+15465
+15064
+14710
+14317
+14063
+13892
+13705
+fifo focus.trace
+607141
+535787
+450001
+419904
+382328
+343450
+323483
+308238
+305010
+302527
+199476
+177704
+63742
+37123
+34823
+34383
+34106
+33843
+lru sort.trace
+202786
+180556
+159396
+135189
+119186
+101246
+74248
+52241
+37491
+33898
+31285
+25667
+18376
+15941
+15455
+15118
+14814
+14530
+lru scan.trace
+39367
+30575
+25006
+21196
+18257
+17022
+16436
+15707
+15401
+14882
+14392
+13875
+13475
+13214
+13038
+12826
+12550
+12325
+lru focus.trace
+545918
+425444
+380697
+376786
+323695
+312444
+278760
+219591
+200225
+176935
+105393
+61960
+40408
+33829
+33286
+33003
+32699
+32451
+Done for 256 =================
+rand sort.trace
+195729
+150486
+115518
+86098
+57678
+39036
+27354
+18974
+15309
+11720
+8166
+7881
+7476
+7204
+6953
+6522
+6310
+6111
+rand scan.trace
+32418
+22223
+16042
+13990
+12488
+11357
+10481
+9704
+9110
+8593
+8033
+7754
+7365
+7094
+6849
+6451
+6233
+6063
+rand focus.trace
+595143
+498227
+424490
+363447
+307344
+254056
+203375
+153171
+104381
+56419
+9177
+7787
+7396
+7125
+6881
+6474
+6258
+6066
+fifo sort.trace
+170581
+134191
+115708
+109386
+76282
+40798
+31084
+21945
+21470
+14252
+7510
+7236
+6948
+6474
+6265
+6148
+5964
+5877
+fifo scan.trace
+29053
+20096
+13972
+12286
+10894
+9932
+9213
+8672
+8266
+7621
+7388
+7134
+6863
+6399
+6201
+6083
+5901
+5819
+fifo focus.trace
+561662
+452436
+406011
+383822
+295853
+256148
+252929
+249892
+139485
+137639
+8399
+7155
+6881
+6412
+6209
+6094
+5914
+5828
+lru sort.trace
+153819
+127624
+92908
+71644
+45871
+28182
+18580
+14241
+10767
+8459
+6135
+5768
+5539
+5355
+5221
+5091
+5014
+4882
+lru scan.trace
+23273
+15839
+11472
+10273
+9431
+8436
+7725
+7089
+6657
+6372
+6064
+5699
+5476
+5294
+5162
+5033
+4958
+4827
+lru focus.trace
+495762
+377678
+323103
+281598
+220460
+189253
+158544
+117615
+67179
+26395
+6337
+5713
+5490
+5305
+5172
+5042
+4973
+4839
+Done for 1024 =================
+rand sort.trace
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+rand scan.trace
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+rand focus.trace
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+fifo sort.trace
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+fifo scan.trace
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+fifo focus.trace
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+lru sort.trace
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+lru scan.trace
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+lru focus.trace
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+use: virtmem <trace> <page-size> <nframes> <rand|fifo|lru>
+Done for  =================
